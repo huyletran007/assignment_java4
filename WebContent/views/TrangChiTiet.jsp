@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Trang chi tiết - Sản phẩm</title>
-<link rel="stylesheet" href="${pageContext.request.contextPath}/Css/TrangChiTiet.css" />
+<link rel="stylesheet" href="${pageContext.request.contextPath}/css/TrangChiTiet.css" />
 </head>
 <body>
     <header>
