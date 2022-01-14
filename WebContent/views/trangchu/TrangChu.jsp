@@ -31,7 +31,7 @@
        <div class="column">
         <div class="san-pham">
            <div class="ten">Video</div>  
-           <img src="../img/5_horse.jpg" alt="5_horse"/> 
+           <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
            <div class="gia">
             <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
             <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
@@ -40,7 +40,7 @@
 
         <div class="san-pham">
            <div class="ten">Video</div>  
-           <img src="../img/5_horse.jpg" alt="5_horse"/> 
+           <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
            <div class="gia">
             <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
             <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
@@ -49,7 +49,7 @@
 
         <div class="san-pham">
            <div class="ten">Video</div>  
-           <img src="../img/5_horse.jpg" alt="5_horse"/> 
+           <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
            <div class="gia">
             <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
             <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
@@ -58,7 +58,7 @@
 
         <div class="san-pham">
            <div class="ten">Video</div>  
-          <img src="../img/5_horse.jpg" alt="5_horse"/> 
+          <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
            <div class="gia">
             <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
             <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
@@ -68,7 +68,7 @@
          <div class="hang2">
            <div class="san-pham">
                <div class="ten">Video</div>  
-               <img src="../img/5_horse.jpg" alt="5_horse"/> 
+               <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
                <div class="gia">
                   <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
                   <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
@@ -77,7 +77,7 @@
    
             <div class="san-pham">
                <div class="ten">Video</div>  
-               <img src="../img/5_horse.jpg" alt="5_horse"/> 
+               <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
                <div class="gia">
                   <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
                   <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
@@ -86,7 +86,7 @@
    
             <div class="san-pham">
                <div class="ten">Video</div>  
-               <img src="../img/5_horse.jpg" alt="5_horse"/> 
+               <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
                <div class="gia">
                   <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
                   <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
@@ -95,7 +95,7 @@
    
             <div class="san-pham">
                <div class="ten">Video</div>  
-               <img src="../img/5_horse.jpg" alt="5_horse"/> 
+               <a href="../TrangChiTiet/TrangChiTiet.jsp"><img src="../img/5_horse.jpg" alt="5_horse"/></a>
                <div class="gia">
                   <button class="custom-btn btn-12"><span>Click!</span><span>Like</span></button>
                   <button class="custom-btn btn-13"><span>Click!</span><span>Share</span></button>
