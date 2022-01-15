@@ -133,7 +133,7 @@ label::before {
   position: absolute;
   font-family: FontAwesome;
   background: transparent;
-  border: 3px solid #70F570;
+  border: 3px solid white;
   border-radius: 4px;
   color: transparent;
   left: -30px;
@@ -145,11 +145,11 @@ label:hover::before {
   content: " ";
   color: #fff;
   cursor: pointer;
-  background: #70F570;
+  background: white;
 }
 
 label:hover::before .text-checkbox {
-  background: #70F570;
+  background: white;
 }
 
 label span.text-checkbox {
@@ -161,5 +161,5 @@ label span.text-checkbox {
 }
 
 label input[type=checkbox] {
-  
+  display: ;
 }
