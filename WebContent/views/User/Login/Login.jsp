@@ -54,9 +54,8 @@
           <input type="checkbox" name="item"/>
           <span class="text-checkbox">Remember me</span>
       </label>
-              <p>forget password?</p>
+              <p class="hi"><a href="#">Forget password?</a></p>
           </div>
-              
               <br>
               <button>Login</button>
       </div>
